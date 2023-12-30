@@ -320,7 +320,3 @@ int main() {
             }
             return 0;
         }
-  // while (a=b+c/d){ int a>5; }
-//  a=b+c
-//  d=e*f
-//  exit
